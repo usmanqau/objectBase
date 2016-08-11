@@ -1,0 +1,13 @@
+{
+    "name": "useobject/useobject",
+    "description": "OOP Programming",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Usman Khokhar",
+            "email": "usman.qau77@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
